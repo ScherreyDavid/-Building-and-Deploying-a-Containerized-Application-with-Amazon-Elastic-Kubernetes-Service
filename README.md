@@ -1,5 +1,5 @@
 
-# Building and Deploying a Containerized Application with Amazon Elastic Kubernetes Service
+# Built and Deployed a Containerized Application with Amazon Elastic Kubernetes Service
 
 I built and deployed a containerized application using Amazon Elastic Kubernetes Service (Amazon EKS). I created an Amazon EKS cluster, prepared a Docker application and pushed it to an Amazon Elastic Container Registry (Amazon ECR) repository. I also deployed an AWS Load Balancer Controller and deployed the application into the Amazon EKS cluster. Finally, I configured and viewed Amazon CloudWatch Container Insights on the Kubernetes cluster
 
